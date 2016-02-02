@@ -1,0 +1,53 @@
+hr {
+	background-color: black;
+	width: 100px;
+	height: 3px;
+	margin: 0px;
+}
+/*Imagenes*/
+img {
+	width: 250px;
+	margin: 15px;
+	border: 1px solid grey;
+    -webkit-filter: brightness(70%);
+    filter: brightness(70%);
+}
+div {
+	display: inline-block;
+}
+.uno {
+	position: absolute;
+	top: 90px;
+	
+}
+.dos {
+	position: absolute;
+	left: 290px;
+	top: 90px;
+}
+.tres {
+	position: absolute;
+	left: 570px;
+	top: 90px;
+}
+.cuatro {
+	position: absolute;
+	top: 375px;
+}
+.cinco {
+	position: absolute;
+	left: 290px;
+	top: 375px;
+}
+.seis {
+	position: absolute;
+	left: 570px;
+	top: 375px;
+}
+/*Texto*/
+p {
+	position: absolute;
+	left: 130px;
+	bottom: 10px;
+	color: white;
+}
